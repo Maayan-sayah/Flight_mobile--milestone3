@@ -17,7 +17,7 @@ our server in connected to one server only.
 to log in to the app, the user needs to insert local host.
 
  <p align="center">
- <img src=".\android.png" width="500" height="260">
+ <img src=".\android.png" width="250" height="460">
 </p>
 
 ### **How does it work?**
