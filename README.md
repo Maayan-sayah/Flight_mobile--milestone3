@@ -23,19 +23,17 @@ to log in to the app, the user needs to insert local host.
 ### **How does it work?**
 1. open the WebCore server- running the server will open a new html window with the communication information, such as the lock host port (should be 5 letters).
 2.log in to the app server using the local host from the server. 
+3. next you should see screen with the joystick and sliders (similar to milestone 3). 
+pressing the different control tools will send a new command to the server and to the simulator. 
+
 
 #### **How to use**
 1. when downloading the code from GitHub, a new zip directory will appear. 
-please open the zip and Extract the code to a new directory that will be used from now- called "FlightControl".
-2. comprass all the file into a zip file called "FlightControl"- all except the bat.
-3. place the bat in the same directory in the same level as the zip called "FlightControl".
+please open the zip and Extract the code to a new directory that will be used from now- called "FlightMobile".
+2. comprass all the file into a zip file called "FlightMobile"- all except the bat and server.
+3. place the bat and server in the same directory in the same level as the zip called "FlightMobile".
 4. make sure to leave the bat and zip only in the file, and nothing else but that. 
 5. click the bat- and a new window will appear running the files. 
-6. when the process in over, a new window will appear with information regarding the programm. copy the url from the second line as shown in the picture bellow-
+6. be advised the at will only run the server, in order to open the android app please use the "Android Studio" app.
 
- <p align="center">
- <img src=".\compile.png" width="700" height="100">
-</p>
-
-7. copy the url and open it.
 
