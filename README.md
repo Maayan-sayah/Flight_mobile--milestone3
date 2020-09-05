@@ -17,19 +17,12 @@ our server in connected to one server only.
 to log in to the app, the user needs to insert local host.
 
  <p align="center">
- <img src=".\fc-image.png" width="500" height="260">
+ <img src=".\android.png" width="500" height="260">
 </p>
 
-
-   
 ### **How does it work?**
-If you wish to insert some flight- there are two main ways to do that:
-* External Flights
-you can log as a new system to our system, using the "PostMan" app, following these steps:
-1.
-* Internal Flights
-  * you can insert new Json file with the flight detailes and insert it in the "upload new flight" button.
-  * you can use the "PostMan" app- 
+1. open the WebCore server- running the server will open a new html window with the communication information, such as the lock host port (should be 5 letters).
+2.log in to the app server using the local host from the server. 
 
 #### **How to use**
 1. when downloading the code from GitHub, a new zip directory will appear. 
