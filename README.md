@@ -21,9 +21,10 @@ to log in to the app, the user needs to insert local host.
 </p>
 
 ### **How does it work?**
-1. open the WebCore server- running the server will open a new html window with the communication information, such as the lock host port (should be 5 letters).
-2. log in to the app server using the local host from the server. 
-3. next you should see screen with the joystick and sliders (similar to milestone 3). 
+1. Download FlightSimulator (Or any other simulator) in the next link- https://flightgear.en.uptodown.com/windows
+2. open the WebCore server- running the server will open a new html window with the communication information, such as the lock host port (should be 5 letters).
+3. log in to the app server using the local host from the server. 
+4. next you should see screen with the joystick and sliders (similar to milestone 3). 
 pressing the different control tools will send a new command to the server and to the simulator. 
 
 
