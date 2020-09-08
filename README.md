@@ -21,7 +21,8 @@ to log in to the app, the user needs to insert local host.
 </p>
 
 ### **How does it work?**
-1. Download FlightSimulator (Or any other simulator) in the next link- https://flightgear.en.uptodown.com/windows. 
+1. Download FlightSimulator (Or any other simulator) in the next link- https://flightgear.en.uptodown.com/windows.
+NOTE! you can choose to use python server. we added a server to this project for your convenience.
 open the simulator, go to Setting, go to Additional Setting and add the next line: 
 "--telnet=socket,in,10,127.0.0.1,5403,tcp --httpd=8080"
 2. open the WebCore server- running the server will open a new html window with the communication information, such as the lock host port (should be 5 letters).
