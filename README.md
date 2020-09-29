@@ -3,8 +3,7 @@
 
 
 #### Creators: 
-##### Shira Turgeman & Noa Elishmereni
-#####  [our GitHub](https://github.com/noaElish/Flight-Mobile--Milestone-5)
+##### Shira Turgeman & Noa Elishmereni & Maayan Sayah
 
 ### **Basic information**
 * Purpose of this extercise-
